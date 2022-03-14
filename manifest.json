@@ -1,0 +1,8 @@
+{
+    "name": "Vivaldi Auto TabStack",
+    "version": "1.0.0",
+    "manifest_version": 3,
+    "background": {
+        "service_worker": "background.js"
+    }
+}
