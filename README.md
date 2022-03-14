@@ -1,7 +1,7 @@
 # Vivaldi Auto TabStack
 ## Feature
 ### Create tab stack automatically
-- unuse extension
+- normal
 ![](assets/normal.gif)
 - use extension
 ![](assets/use_extension.gif)
